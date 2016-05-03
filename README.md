@@ -1,2 +1,2 @@
 # repositorioGit26
-Repositorio de prueba
+Repositorio de prueba creado para CIFP Rodolfo Ucha
